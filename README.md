@@ -1,4 +1,4 @@
-# 🧩 SageMathLab
+# Ⓜ️ SageMathLab
 
 
 
@@ -9,7 +9,6 @@
 <p alt="center">
    <img src=" https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 </p>
-
 
 
 这是一个关于 **SageMath** 的学习与实验仓库，记录了我在数学计算、代数、数论以及密码学方向的探索与实践。  
